@@ -1,0 +1,113 @@
+{
+    "categories": {
+      "layout-design": {
+        "name": "Layout Design",
+        "description": "Brochure, magazine, flyers, and other printed materials",
+        "icon": "📰",
+        "order": 1
+      },
+      "branding-identity": {
+        "name": "Graphic Design",
+        "description": "Brand identity, logos, and visual design",
+        "icon": "🦋",
+        "order": 2
+      },
+      "web-design": {
+        "name": "Web Design",
+        "description": "Full-stack web applications and responsive websites",
+        "icon": "💻",
+        "order": 3
+      },
+      "vector-and-icon-design": {
+        "name": "Graphic Design",
+        "description": "Brand identity, logos, and visual design",
+        "icon": "✨",
+        "order": 4
+      },
+      "event-media": {
+        "name": "Graphic Design",
+        "description": "Brand identity, logos, and visual design",
+        "icon": "🎊",
+        "order": 5
+      },
+      "social-media-assets": {
+        "name": "Graphic Design",
+        "description": "Brand identity, logos, and visual design",
+        "icon": "📱",
+        "order": 6
+      }
+    },
+    "projects": [
+      {
+        "id": "ecommerce-platform",
+        "title": "E-Commerce Platform",
+        "category": "web-development",
+        "description": "A fully responsive online shopping platform built with React, Node.js, and PostgreSQL.",
+        "tags": ["react", "nodejs", "postgresql", "stripe"],
+        "featured": true,
+        "date": "2024-03-15",
+        "client": "Tech Startup Inc",
+        "link": "https://example.com",
+        "role": "Full-Stack Developer",
+        "duration": "3 months",
+        "images": [
+          {
+            "url": "https://drive.proton.me/urls/ABC123XYZ#hash1",
+            "caption": "Homepage with featured products",
+            "isCover": true
+          },
+          {
+            "url": "https://drive.proton.me/urls/DEF456UVW#hash2",
+            "caption": "Product detail page"
+          },
+          {
+            "url": "https://drive.proton.me/urls/GHI789RST#hash3",
+            "caption": "Mobile responsive design"
+          }
+        ]
+      },
+      {
+        "id": "mountain-photography",
+        "title": "Mountain Photography Series",
+        "category": "photography",
+        "description": "Landscape photographs from Rocky Mountains expedition.",
+        "tags": ["landscape", "nature", "mountains"],
+        "featured": true,
+        "date": "2024-01-20",
+        "location": "Rocky Mountains, Colorado",
+        "camera": "Sony A7IV",
+        "images": [
+          {
+            "url": "https://drive.proton.me/urls/JKL012MNO#hash4",
+            "caption": "Sunrise at 6000ft elevation",
+            "isCover": true
+          },
+          {
+            "url": "https://drive.proton.me/urls/PQR345STU#hash5",
+            "caption": "Valley vista during golden hour"
+          }
+        ]
+      },
+      {
+        "id": "brand-identity",
+        "title": "AI Startup Brand Identity",
+        "category": "graphic-design",
+        "description": "Complete brand identity package for an AI startup.",
+        "tags": ["branding", "logo", "identity"],
+        "featured": true,
+        "date": "2024-02-28",
+        "client": "AI Solutions Ltd",
+        "images": [
+          {
+            "url": "https://drive.proton.me/urls/VWX678YZA#hash6",
+            "caption": "Primary logo design",
+            "isCover": true
+          },
+          {
+            "url": "https://drive.proton.me/urls/BCD901EFG#hash7",
+            "caption": "Brand color palette"
+          }
+        ]
+      }
+    ]
+  }

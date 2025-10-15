@@ -7,7 +7,7 @@ import Gallery from "./components/Gallery.tsx";
 
 function App() {
   return (
-    <div>
+    <div className="font-sans">
       <Navbar />
       <Hero />
       <Gallery />

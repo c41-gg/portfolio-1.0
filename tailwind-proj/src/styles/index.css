@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+@theme{
+  --font-test1: 'Times New Roman', Times, serif;
+  --font-test2: "Helvetica", sans-serif;
+}
+
 body{
   background-color: #09090b;
 }

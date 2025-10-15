@@ -9,7 +9,7 @@ const Navbar = () => {
         setNav(!nav)
     }
   return (
-    <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white'>
+    <div className='fixed top-0 left-0 right-0 z-50 flex w-full justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white'>
         <h1 className='w-full text=3xl font-bold'>c41codex<ReactTyped strings ={['_']} typeSpeed={120} backSpeed={120} loop/></h1>
         <ul className='hidden md:flex'>
             <li className='p-4'>Home</li>
